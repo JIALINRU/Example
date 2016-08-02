@@ -170,7 +170,6 @@
 			stop();
 			alert('你死了');
 		}
-
 	}
 	function stop(){
 		console.log('stop');
